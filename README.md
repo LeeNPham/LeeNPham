@@ -1,7 +1,10 @@
-<h1 align="center">Hey there 👋 I'm Lee!</h1>
-<h3 align="center">Full-Stack Software Engineer</h3>
+<h1 align="center">Hey there 👋 I'm Lee! <br/> Your Future Full-Stack Software Engineer</h1>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=leenpham&label=Profile%20views&color=0e75b6&style=flat" alt="leenpham" /> 
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leenpham&label=Profile%20views&color=0e75b6&style=flat" alt="leenpham" /> </p>
+
+
 
 * **Languages |** JavaScript, TypeScript, Python, SQL, HTML, CSS, Tailwind CSS, SCSS
 * **Front-End |** Node.js, React, Svelte, SvelteKit, Bootstrap, Flowbite, M3 (Material UI), Shadow & Virtual DOM manipulation
