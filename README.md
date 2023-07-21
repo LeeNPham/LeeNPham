@@ -9,12 +9,9 @@
 
 I'm a passionate Full-Stack Developer with a strong emphasis on Front-End technologies. 
 Crafting elegant and efficient solutions is my passion, and I'm always eager to expand my knowledge and share it with others.
-
-In my journey as a developer, I've found my love for SvelteKit, a front-end framework that captivates me with its simplicity and incredible ability to overcome the limitations of React and Next.js. 
-I believe in the power of clean and intuitive code to deliver exceptional user experiences, and SvelteKit perfectly aligns with this philosophy.
+Over my professional experiences, I've found a love for SvelteKit, a front-end framework that captivates me with its simplicity and incredible ability to overcome the limitations of React and Next.js. I believe in the power of clean and intuitive code to deliver exceptional user experiences, and SvelteKit perfectly aligns with this philosophy.
 
 Let me give you a glimpse of my diverse skill set:
-
 
 * **Languages |** JavaScript, TypeScript, Python, SQL, HTML, CSS, Tailwind CSS, SCSS
 * **Front-End |** Node.js, React, Svelte, SvelteKit, Bootstrap, Flowbite, M3 (Material UI), Shadow & Virtual DOM manipulation
@@ -22,10 +19,10 @@ Let me give you a glimpse of my diverse skill set:
 * **Testing/Deployment |** Selenium, Insomnia, Beekeeper Studio, DataDog SLI/SLOs, AWS S3, Heroku, Render, Vercel, and Docker
 * **Tools |** Git, Jira, Dev tools, VS Code, Insomnia, Agile workflow, API integration, Object Oriented Programming, Domain Driven Design
 
+<hr/>
 
 
-
-- 🔭 I’m currently working on a mobile app, integrating trained ai models to help outdoor enthusiasts find local resources, offer them various QOL utility features, and notify them of emergencies
+- 🔭 Working on a mobile app that integrates AI models to assist outdoor enthusiasts in finding local resources, offering QOL utility features, and notifying them of emergencies.
 
 - 👯 I’m looking to collaborate and partner on anything where my efforts will provide help to those in more unfortunate circumstances
   
