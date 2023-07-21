@@ -1,9 +1,19 @@
-<h1 align="center">Hello 👋 Lee here <br/> I'm Your Future Full-Stack Software Engineer & A Python Simp</h1>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=leenpham&label=Profile%20views&color=0e75b6&style=flat" alt="leenpham" /> 
-</p>
+<h1 align="center">
+  <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=leenpham&label=Profile%20views&color=0e75b6&style=flat" alt="leenpham" /> 
+  </p>
+  Hello 👋 Lee here 
+  <br/>
+  I'm Your Future Full-Stack Software Engineer & A Python Simp 🤖
+</h1>
 
+I'm a passionate Full-Stack Developer with a strong emphasis on Front-End technologies. 
+Crafting elegant and efficient solutions is my passion, and I'm always eager to expand my knowledge and share it with others.
 
+In my journey as a developer, I've found my love for SvelteKit, a front-end framework that captivates me with its simplicity and incredible ability to overcome the limitations of React and Next.js. 
+I believe in the power of clean and intuitive code to deliver exceptional user experiences, and SvelteKit perfectly aligns with this philosophy.
+
+Let me give you a glimpse of my diverse skill set:
 
 
 * **Languages |** JavaScript, TypeScript, Python, SQL, HTML, CSS, Tailwind CSS, SCSS
@@ -12,13 +22,30 @@
 * **Testing/Deployment |** Selenium, Insomnia, Beekeeper Studio, DataDog SLI/SLOs, AWS S3, Heroku, Render, Vercel, and Docker
 * **Tools |** Git, Jira, Dev tools, VS Code, Insomnia, Agile workflow, API integration, Object Oriented Programming, Domain Driven Design
 
-I'm a Full-Stack Dev (Front-End leaning) who loves to craft, teach, and learn. My front end framework of choice is SvelteKit. I love the simplicity and its amazing capability to highlight and improve upon the shortcomings of React and Next.js.
 
-- 🌱 I’m currently learning more about **AI Models, Backend Architecture, and Design Patterns**
+
+
+- 🔭 I’m currently working on a mobile app, integrating trained ai models to help outdoor enthusiasts find local resources, offer them various QOL utility features, and notify them of emergencies
+
+- 👯 I’m looking to collaborate and partner on anything where my efforts will provide help to those in more unfortunate circumstances
+  
+- 🚀 I’m currently learning more about **AI Models, Backend Architecture, and Design Patterns**
 
 - 👨‍💻 Some of my projects are available to view at https://www.leenpham.com OR in this very github.
 
-- 📫 How to reach me **https://www.linkedin.com/in/lee-n-pham**
+- 😄 Pronouns: He/Him/His/They/Them/Theirs
+  
+<!--
+- ❤️ I stand in solidarity with those who are under-represented within our tech communities:
+  
+<img src="https://static.dezeen.com/uploads/2018/06/lgbt-pride-flag-redesign-hero.jpg" alt="Image" style="width: 18%;"> <img src="https://women-in-tech.org/wp-content/uploads/2019/10/logo-womenintech-global.png" alt="Image" style="width: 25%;">
+-->
+
+
+
+<!--
+- Slack Groups:
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -76,8 +103,6 @@ I'm a Full-Stack Dev (Front-End leaning) who loves to craft, teach, and learn. M
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a> 
 
-
-
 <a href="https://www.tailwindcss.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
 </a> 
@@ -93,6 +118,42 @@ I'm a Full-Stack Dev (Front-End leaning) who loves to craft, teach, and learn. M
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leenpham&show_icons=true&locale=en&layout=compact" alt="leenpham" /></p>
 
 
+
+
+<!--
+- ⚡️ Fun fact: In my free time, I enjoy flexing my creative muscles by 
+    building gundam model kits (I'll make a blog link here eventually for my work), 
+    playing computer games (use a similar list like below for what games I play and their logos): Destiny 2, league of legends, TFT, Among us,
+    designing (include similar list like below for languages, where I show Adoble illustrator, photoshop, figma, inkscape, meshmixer, nomad, fusion360,3d printing
+    Music I enjoy(list my favorite artists and maybe link to Marbles Spotify Playlist app
+-->
+
+<!--
+<details>
+  <summary>Languages: </summary>
+    JavaScript, TypeScript, Python, SQL, HTML, CSS, Tailwind CSS, SCSS
+</details>
+
+<details>
+  <summary>Front-End: </summary>
+    Node.js, React, Svelte, SvelteKit, Bootstrap, Flowbite, M3 (Material UI), Shadow & Virtual DOM manipulation
+</details>
+
+<details>
+  <summary>Back-End: </summary>
+    FastAPI, Flask, Django, OpenSSL, MongoDB, FireBase, UserBase, PropelAuth, Supabase, PostgreSQL, RabbitMQ, WebSockets, TOZ 
+</details>
+
+<details>
+  <summary>Testing/Deployment: </summary>
+    Selenium, Insomnia, Beekeeper Studio, DataDog SLI/SLOs, AWS S3, Heroku, Render, Vercel, and Docker
+</details>
+
+<details>
+  <summary>Tools: </summary>
+    Git, Jira, Dev tools, VS Code, Insomnia, Agile workflow, API integration, Object Oriented Programming, Domain Driven Design
+</details>
+-->
 
 
 <!--
