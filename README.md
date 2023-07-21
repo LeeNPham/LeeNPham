@@ -14,7 +14,7 @@
 
 I'm a Full-Stack Dev (Front-End leaning) who loves to craft, teach, and learn. My front end framework of choice is SvelteKit. I love the simplicity and its amazing capability to highlight and improve upon the shortcomings of React and Next.js.
 
-- 🌱 I’m currently learning more about **AI Models, Backend Architecture, and BlockChain Technologies**
+- 🌱 I’m currently learning more about **AI Models, Backend Architecture, and Design Patterns**
 
 - 👨‍💻 Some of my projects are available to view at https://www.leenpham.com OR in this very github.
 
