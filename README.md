@@ -26,7 +26,7 @@ Let me give you a glimpse of my diverse skill set:
 
 - 👯 I’m looking to collaborate and partner on anything where my efforts will provide help to those in more unfortunate circumstances
   
-- 🚀 I’m currently learning more about **AI Models, Backend Architecture, and Design Patterns**
+- 🚀 I’m currently learning more about **AI Models, Holographic Technologies, and Augmented Reality applications** 
 
 - 👨‍💻 Some of my projects are available to view at https://www.leenpham.com OR in this very github.
 
