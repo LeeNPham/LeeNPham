@@ -19,6 +19,31 @@ Let me give you a glimpse of my diverse skill set:
 * **Testing/Deployment |** Selenium, Insomnia, Beekeeper Studio, DataDog SLI/SLOs, AWS S3, Heroku, Render, Vercel, and Docker
 * **Tools |** Git, Jira, Dev tools, VS Code, Insomnia, Agile workflow, API integration, Object Oriented Programming, Domain Driven Design
 
+<!--
+## Skills
+
+### Languages & Frameworks:
+- **Programming Languages:** JavaScript, TypeScript, Python, SQL.
+- **Web Styling & Layout:** HTML, CSS, Tailwind CSS, SCSS.
+
+### Front-End Development:
+- **Core Technologies:** Node.js, React, Svelte, SvelteKit.
+- **Frameworks & Libraries:** Bootstrap, Flowbite, M3 (Material UI); Expertise in DOM manipulation.
+
+### Back-End Development:
+- **Frameworks:** FastAPI, Flask, Django, OpenSSL.
+- **Databases:** MongoDB, FireBase, UserBase, Supabase, PostgreSQL.
+- **Communication & Messaging:** RabbitMQ, WebSockets, TOZ.
+
+### Testing & Deployment:
+- **Testing Tools:** Selenium, Insomnia, Beekeeper Studio.
+- **Deployment & Monitoring:** DataDog SLI/SLOs, AWS S3, Heroku, Render, Vercel, Docker.
+
+### Development Tools & Practices:
+- **Project Management & Tools:** Git, Jira, VS Code.
+- **Methodologies:** Agile workflow, API integration, Object-Oriented Programming, Domain-Driven Design.
+-->
+
 <hr/>
 
 
