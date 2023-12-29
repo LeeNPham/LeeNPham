@@ -20,6 +20,8 @@ Let me give you a glimpse of my diverse skill set:
 * **Tools |** Git, Jira, Dev tools, VS Code, Insomnia, Agile workflow, API integration, Object Oriented Programming, Domain Driven Design
 
 <!--
+
+space???
 ## Skills
 
 ### Languages & Frameworks:
