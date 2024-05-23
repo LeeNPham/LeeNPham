@@ -4,7 +4,7 @@
   </p>
   Hello 👋 Lee here 
   <br/>
-  I'm Your Future Full-Stack Software Engineer & A Python Simp 🤖
+  I'm Your Future Full-Stack Software Engineer 😁😁😁
 </h1>
 
 As a Full-Stack Developer, my expertise leans heavily towards Front-End technologies. I'm deeply passionate about creating not just functional but also aesthetically pleasing solutions. My journey in the tech industry has been marked by a relentless pursuit of knowledge, with a special focus on exploring emerging technologies and innovative design patterns. This continuous learning fuels my ability to enhance and optimize my solutions.
